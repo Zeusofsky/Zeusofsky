@@ -7,8 +7,6 @@
   
 </p>
 
-Hello, I'm a passionate self-taught Blockchain developer and software engineer from San Francisco.
-I take great care in the experience, architecture, and code quality of the things I build.
 
 <p align="left" style="font-family: Brush Script MT"> 
 <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> 
